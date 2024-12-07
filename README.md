@@ -1,4 +1,4 @@
-#Sequent Calculus Paper
+# Sequent_Calculus
 Overview
 This repository contains the paper titled "Sequent Calculus Paper", written as part of the Formal and Mathematical Logic course at the Department of Mathematics and Actuarial Science in Spring 2024. The authors explore Sequent Calculus as a proof system, providing a formal introduction, metatheoretical analysis, and a comparison with the Hilbert-style proof system.
 
