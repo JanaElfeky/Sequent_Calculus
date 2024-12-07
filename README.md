@@ -6,6 +6,7 @@ Authors
 Ismaiel Sabet - 900221277
 Jana Elfeky - 900215017
 Noor Emam - 900222081
+
 Abstract
 The paper builds upon the foundational knowledge of propositional logic and proof systems introduced in the course. The authors discuss:
 
@@ -16,12 +17,14 @@ Sequent Calculus is formally introduced as an alternative proof system, with an 
 Defining its building blocks: formal language, axioms, and inference rules.
 Demonstrating metatheorems about the system.
 Comparing its features and applications with the Hilbert-style system.
+
 Key Topics
 Formal Language: The syntactical framework for constructing formulas in Sequent Calculus.
 Axioms and Inference Rules: Rules for generating new formulas and constructing proofs.
 Metatheorems: Analysis of properties such as Soundness, Completeness, and Cut-Elimination.
 Comparison: Evaluation of Sequent Calculus vs. Hilbert-style proof systems.
 Applications: Practical and theoretical uses of Sequent Calculus in logic and mathematics.
+
 Purpose
 This paper aims to:
 
